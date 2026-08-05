@@ -1,0 +1,5 @@
+INSTALL Backend requirements 
+run using python app.py
+
+Frontend npm install
+run using npm run dev

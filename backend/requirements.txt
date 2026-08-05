@@ -1,0 +1,9 @@
+flask
+flask-cors
+opencv-python
+numpy<2
+h5py
+tensorflow
+mediapipe
+mysql-connector-python
+bcrypt
