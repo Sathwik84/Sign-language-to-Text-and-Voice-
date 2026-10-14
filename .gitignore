@@ -116,7 +116,7 @@ backend/processed_data/
 .DS_Store
 Thumbs.db
 Desktop.ini
-
+echo "figures/" >> .gitignore
 # ------------------------------------------------------------------------------
 # Keep Trained Models
 # ------------------------------------------------------------------------------
